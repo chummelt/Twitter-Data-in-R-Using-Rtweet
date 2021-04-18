@@ -11,10 +11,10 @@ library(rtweet)
 ```
 ```ruby
 #store api keys (replace with your own keys)
-api_key <- "XXX"
-api_secret_key <- "XXX"
-access_token <- "XXX"
-access_token_secret <- "XXX"
+api_key <- "(replace with your own keys)"
+api_secret_key <- "(replace with your own keys)"
+access_token <- "(replace with your own keys)"
+access_token_secret <- "(replace with your own keys)"
 ```
 
 

@@ -38,3 +38,15 @@ token <- create_token(
 #check to see if token is loaded
 get_token()
 ```
+
+
+```ruby
+#install.packages("tidytext")
+#load twitter library 
+library(rtweet)
+library(ggplot2)
+library(dplyr)
+library(tidytext)
+library(igraph)
+library(ggraph)
+```

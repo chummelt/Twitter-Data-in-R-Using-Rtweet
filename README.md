@@ -4,6 +4,10 @@ This is a tutorial for scrapting Twitter data with R. This tutorial is divided i
 1. Connection to Twitter
 2. Using Twitter data for descriptive analysis
 
+### 1. Connecting to Twitter
+
+
+
 ```ruby
 rm(list=ls())
 #check https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html for a more detailed description

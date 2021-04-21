@@ -1,6 +1,8 @@
 # Twitter-Data-in-R-Using-Rtweet
 
-This is a tutorial for scrapting Twitter data with R
+This is a tutorial for scrapting Twitter data with R. This tutorial is divided into two parts:
+1. Connection to Twitter
+2. Using Twitter data for descriptive analysis
 
 ```ruby
 rm(list=ls())

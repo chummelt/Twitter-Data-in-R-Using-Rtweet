@@ -23,4 +23,18 @@ access_token <- "(replace with your own keys)"
 access_token_secret <- "(replace with your own keys)"
 ```
 
+```ruby
+#authenticate 
+token <- create_token(
+  app = "rstatsanalysis21",
+  consumer_key = api_key,
+  consumer_secret = api_secret_key,
+  access_token = access_token,
+  access_secret = access_token_secret)
 
+#you should get the following notion on your browser:
+#'Authentication complete. Please close this page and return to R.'
+
+#check to see if token is loaded
+get_token()
+```

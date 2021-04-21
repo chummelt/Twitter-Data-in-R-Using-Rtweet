@@ -39,6 +39,7 @@ token <- create_token(
 get_token()
 ```
 
+### 2. Using Twitter data for descriptive analysis
 
 ```ruby
 #install.packages("tidytext")

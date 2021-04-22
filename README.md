@@ -4,7 +4,7 @@ This is a tutorial for scrapting Twitter data with R. This tutorial is divided i
 1. Connection to Twitter
 2. Using Twitter data for descriptive analysis
 
-### 1. Connecting to Twitter
+### 1. Connecting to Twitter via API
 
 
 

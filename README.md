@@ -6,7 +6,7 @@ This is a tutorial for scrapting Twitter data with R. This tutorial is divided i
 
 ### 1. Connecting to Twitter via API
 
-The process of the connection to twitter is very good documented under
+The process of the connection to twitter is very good documented under the following
 
 ```ruby
 rm(list=ls())
